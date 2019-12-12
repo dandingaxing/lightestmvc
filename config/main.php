@@ -36,9 +36,9 @@ return array(
         'mycomp' => array(
             'name' => 'mycomp',
             'construct' => array(
-                'abcdfs' => 'ssdfea',
-                'abcdfs__2' => 'ssdfea__4',
-                'abcdfs__3' => 'ssdfea__5',
+                'democomp__abc_1' => 'democomp__abc_1',
+                'democomp__abc_2' => 'democomp__abc_2',
+                'democomp__abc_3' => 'democomp__abc_3',
             ),
             'newClass' => EXTENSION_DIR . '/components/mycomp/mycomp.php',
             'classMap' => array(
